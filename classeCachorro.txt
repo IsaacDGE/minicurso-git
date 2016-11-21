@@ -1,3 +1,4 @@
 cachorro{
-	latir(){}	
+	latir(){}
+	correr(){}
 }
